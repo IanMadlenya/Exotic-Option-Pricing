@@ -2,6 +2,7 @@
 Asian Option and European Power Option Pricing
 
 Concepts used -
+
 1. Functors.
 
 2. Operator Overloading
